@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "dotenv": "^16.3.1",
+    "mocha": "^10.2.0",
     "puppeteer": "^20.7.3",
     "puppeteer-core": "^20.7.4"
   }
